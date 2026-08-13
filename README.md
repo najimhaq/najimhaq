@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer building fast, thoughtful web products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-najimul.xyz-0b1220?style=for-the-badge&logo=vercel&logoColor=white)](https://www.najimul.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-najimul.xyz-0b1220?style=for-the-badge&logo=vercel&logoColor=white)](https://www.najimul.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haq--najim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haq-najim)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnajimulhaque@gmail.com)
 
