@@ -36,8 +36,7 @@
 | [SunCart](https://github.com/najimhaq/suncart-summer-essentials-store) | A full-featured job portal connecting job seekers and employers | React · JavaScript · Tailwind · Better-Auth · Express.js · MongoDB|
 | [miCare](https://github.com/najimhaq/miCare-doctor-appointment-app-client) | Doctor appointment booking platform with search and booking flows | React · Typescript · Tailwind · Framer Motion · Lenis |
 | [Wonderlast](https://github.com/najimhaq/wonderlast-travel-practise) | Multi-language e-commerce experience with scalable cart state | Next.js · Typescript · Better-Auth · MongoDB Atlas  · Mongoose · Tailwind · DaisyUI · Stripe| |
-| [StayNest](https://github.com/najimhaq/nest-home-client-side) | AI resume feedback tailored to job descriptions | Next.js · Tailwind
-· Express.js · PostgreSQL  · Prisma  |
+| [StayNest](https://github.com/najimhaq/nest-home-client-side) | Multi-language e-commerce experience with scalable cart state | Next.js · Typescript · Better-Auth · PostgreSQL · Tailwind · HeroUI · Stripe| |
 
 
 ## What I value
