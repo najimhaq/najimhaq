@@ -32,10 +32,13 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [HireLoop](https://github.com/najimhaq/hireLoop-final-clientside) | A full-featured job portal connecting job seekers and employers | React · JavaScript · Firebase |
-| [miCare](https://github.com/najimhaq/miCare-doctor-appointment-app-client) | Doctor appointment booking platform with search and booking flows | React · JavaScript · Firebase |
-| [Epikcart](https://github.com/najimhaq/epikcart) | Multi-language e-commerce experience with scalable cart state | React · Redux · i18n |
-| [Resume Roaster](https://github.com/najimhaq/resume-roaster) | AI resume feedback tailored to job descriptions | Next.js · PostgreSQL · AI |
+| [SkillSphere]([https://github.com/najimhaq/skillsphere-frontend) | A full-featured job portal connecting job seekers and employers | Next.js · Typescript · Better-Auth · Express.js · MongoDB  · Mongoose · Tailwind · Stripe|
+| [SunCart](https://github.com/najimhaq/suncart-summer-essentials-store) | A full-featured job portal connecting job seekers and employers | React · JavaScript · Tailwind · Better-Auth · Express.js · MongoDB|
+| [miCare](https://github.com/najimhaq/miCare-doctor-appointment-app-client) | Doctor appointment booking platform with search and booking flows | React · Typescript · Tailwind · Framer Motion · Lenis |
+| [Wonderlast](https://github.com/najimhaq/wonderlast-travel-practise) | Multi-language e-commerce experience with scalable cart state | Next.js · Typescript · Better-Auth · MongoDB Atlas  · Mongoose · Tailwind · DaisyUI · Stripe| |
+| [StayNest](https://github.com/najimhaq/nest-home-client-side) | AI resume feedback tailored to job descriptions | Next.js · Tailwind
+· Express.js · PostgreSQL  · Prisma  |
+
 
 ## What I value
 
