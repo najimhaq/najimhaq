@@ -13,7 +13,7 @@
 ---
 
 ## ✨ About Me
-- 🔭 Building full‑stack web applications with **React, Next.js, Node.js, PostgreSQL**
+- 🔭 Building full‑stack web applications with **React, Next.js, Node.js, Express.js, PostgreSQL, MongoDB**
 - 🌱 Currently sharpening **TypeScript, System Design, C fundamentals, Python**
 - 🧩 Passionate about clean interfaces, secure authentication, practical APIs, and maintainable data models
 - 📍 Based in **Busan, South Korea** · Open to remote opportunities
