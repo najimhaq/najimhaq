@@ -34,6 +34,7 @@
 |---------|-------------|------------|
 | [**SkillSphere**](https://github.com/najimhaq/skillsphere-frontend) | Job portal connecting seekers & employers | Next.js · TypeScript · Better‑Auth · Express.js · MongoDB · Tailwind · Stripe |
 | [**BookRaq**](https://github.com/najimhaq/bookreq-frontend) | Book Library Management | Next.js · TypeScript · Better‑Auth · Express.js · PostgreSQL · Tailwind · Prisma |
+| [**WonWallet**](https://github.com/najimhaq/won-wallet-client) | Income Expense Management | Next.js · TypeScript · Better‑Auth · Express.js · PostgreSQL · Tailwind · Prisma |
 | [**SunCart**](https://github.com/najimhaq/suncart-summer-essentials-store) | Summer essentials e‑commerce store | React · JavaScript · Tailwind · Better‑Auth · Express.js · MongoDB |
 | [**miCare**](https://github.com/najimhaq/miCare-doctor-appointment-app-client) | Doctor appointment booking platform | React · TypeScript · Tailwind · Framer Motion · Lenis |
 | [**Wonderlast**](https://github.com/najimhaq/wonderlast-travel-practise) | Multi‑language travel e‑commerce | Next.js · TypeScript · Better‑Auth · MongoDB Atlas · Tailwind · DaisyUI · Stripe |
